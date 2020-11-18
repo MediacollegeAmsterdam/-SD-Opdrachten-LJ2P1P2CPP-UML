@@ -1,8 +1,11 @@
 # Opdrachten periode 2
 Hier vind je de keuze aan opdrachten voor periode 2.
 ---
-Je kan er 1 kiezen en dan de volgende opdrachten maken:
-
+Je kan er 1 kiezen en dan de volgende opdrachten maken:  
+- **[Een abstracte school](https://github.com/MediacollegeAmsterdam/-SD-Opdrachten-LJ2P1P2CPP-UML/tree/main/Periode%202/De%20abstracte%20school)**  
+- **[Een abstracte racebaan](https://github.com/MediacollegeAmsterdam/-SD-Opdrachten-LJ2P1P2CPP-UML/tree/main/Periode%202/De%20abstracte%20racebaan)**  
+- **[Een abstracte RPG](https://github.com/MediacollegeAmsterdam/-SD-Opdrachten-LJ2P1P2CPP-UML/tree/main/Periode%202/De%20abstracte%20RPG)**  
+---
 ## Opdracht 1
 
 Schrijf voor de opdracht een stappenplan over hoe je het gaat aanpakken.  
