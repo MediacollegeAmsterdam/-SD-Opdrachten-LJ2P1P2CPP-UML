@@ -12,12 +12,12 @@ Dit project bestaat uit 4 classes en hoeft geen echte data te bevatten of speelb
 -	Alleen geïnstantieerd worden met minimaal een naam en een telefoonnummer (Argumenten in de constructor).
 
 **De Core houdt bij; (variabelen)** 
--	Welke Games op de Core zitten en de naam van de Core. De Core heeft een vast telefoonnummer, een adres en postcode.
+-	Welke Games op de Core zitten en de naam van de Core. De Core heeft een unieke identiteit(ID) een land en een versie.
 
 **Aan de Core kan je; (functies)**
 -	Games toevoegen en opvragen.
 -	Je kan aan de Core vragen hoeveel Players er op de Core zitten.
--	Je kan de naam, het telefoonnummer, het adres en de postcode van de Core opvragen en aanpassen.
+-	Je kan de naam, de identiteit(ID), het land en de versie van de Core opvragen en aanpassen.
 
 ## Game
 **De Game mag; (voorwaarden)**  
