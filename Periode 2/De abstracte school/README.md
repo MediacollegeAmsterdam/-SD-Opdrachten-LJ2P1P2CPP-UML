@@ -55,4 +55,4 @@ Dit project bestaat uit 4 classes en hoeft geen echte data te bevatten.
 **Aan de student kan je; (functies)**
 - De naam opvragen en aanpassen
 - De leeftijd van de student opvragen en aanpassen
-- Het gemiddelde cijfer opvragen en aanapssen
+- Het gemiddelde cijfer opvragen en aanpassen
